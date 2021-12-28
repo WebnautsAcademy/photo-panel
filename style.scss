@@ -1,0 +1,43 @@
+.header-block {
+    margin: 0 auto;
+    width: 100%;
+
+    & .header-link {
+        color: red;
+    }
+}
+
+.header-block {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.header-block .header-link {
+    color: red;
+}
+
+.link {
+    ////
+}
+
+.link:hover {
+    ////
+}
+
+.link:active {
+    ///@debug
+}
+
+.link:focus {
+    ////
+}
+
+.link {
+    &:hover {
+
+    }
+
+    &:focus {
+        
+    }
+}
